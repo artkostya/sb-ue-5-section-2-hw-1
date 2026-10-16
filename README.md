@@ -1,4 +1,4 @@
-# Traffic Lights
+# Section 2. Practical Assignment 1.9
 
 The `ThirdPersonMap` contains one `BP_TrafficLightsManager` and four `BP_TrafficLight` actors. Each traffic light consists of three `BP_Lamp` actors: red, yellow, and green.
 
